@@ -6,7 +6,7 @@
     "@ethereumjs/common": "^2.6.2",
     "@ethereumjs/tx": "^3.5.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@@iden3/iden3": "^0.0.27",
+    "@iden3/iden3": "^0.0.27",
     "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/user-event": "^13.5.0",
